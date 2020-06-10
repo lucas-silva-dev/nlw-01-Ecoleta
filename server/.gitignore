@@ -1,0 +1,7 @@
+/node_modules
+/tmp/static/*
+/tmp/uploads/*
+
+!tmp/**/*.gitkeep
+.history
+*.sqlite
